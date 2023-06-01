@@ -1,4 +1,6 @@
+
 # CSV Parameter Extractor
+![elephant](https://github.com/EsamLasheen/CSV-Parameter-Reader/assets/55217611/f72b896b-b938-4398-90ed-60649079bbf9)
 
 The CSV Parameter Extractor is a Bash script designed to parse CSV (Comma-Separated Values) files and extract individual parameters from each line. It provides a simple and efficient way to work with CSV data, allowing you to extract specific values for further processing or analysis.
 
