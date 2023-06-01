@@ -15,7 +15,7 @@ The CSV Parameter Extractor is a Bash script designed to parse CSV (Comma-Separa
 ## Usage
 
 1. Make sure you have Bash installed on your system.
-2. Clone the repository or download the `param_array_reader.sh` file.
+2. Clone the repository or download the `./CSV-Parameter-Reader.sh` file.
 3. Set the execute permission for the script: `chmod +x param_array_reader.sh`.
 4. Run the script, providing the path to your CSV file as the command-line argument:
 
